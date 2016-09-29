@@ -4,7 +4,6 @@
   "description": "Electron boilerplate project with React and babel",
   "main": "src/app.js",
   "scripts": {
-    "install": "bower install",
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
